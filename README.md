@@ -2,7 +2,6 @@
 Remuneration system proposal / Calcul de rémunération par Somme de tributs 
 
 
-
 ```
 @release	13/10/2015
 @version	0.1
@@ -11,9 +10,12 @@ Remuneration system proposal / Calcul de rémunération par Somme de tributs
 
 ```
 
-
-
 La rémunération par somme de tribut est un système de calcul d'une rémunération en fonction d'une somme de tributs %, multiplié par un facteur K.
+Le but de ce système est de mettre en place une reconnaissance effective du travail fourni, de répartir équitablement toute richesse générée, et d'approcher une méritocratie partielle.
+
+L'idée de base, c'est que toute personne oeuvrant dans le sens de la communauté (de façon contractuelle ou non) à droit à un salaire (voir salaire unique), et qu'aucun travail, quel qu'il soit, ne peut permettre de prétendre à un salaire dépassant un certain niveau. Dans le cas ou la moyenne du cumul des rémunérations soit supérieur à l'équivalent des rémunérations maximales, alors un impot est prélevé, puis la rémunération plafonnée. Un facteur "K" permet de donner une dimension aux tributs. L'indexation correcte de tous les tributs permet de garantir une rémunération savante, prenant en compte le potentiel général de toute personne donnant de son temps à une quelconque activité allant dans le sens de la communauté.
+
+Il est possible de dresser des profils type pour certaines taches, dans le cas ou le cadre dans lequel l'activité se déroule, ne permette pas de calculer au mieux chaque tribut. Ainsi, en fonction de parametres plus pertinents, il sera possible de coller au mieux au salaire mérité par la personne. 
 
 Ceci est une ébauche. Je vous encourage à me dire ce que vous en pensez, et à développer l'idée. Le but est d'explorer d'autres voies au système de rémunération courant.
 ## Principe
@@ -62,7 +64,7 @@ La polyvalence représente l'arsenal intellectuel nécessaire à la réalisation
 ### Qualité
 
 La qualité du travail effectué. Ce parametre doit être soumis à une certaine inertie, car la fluctuation de la qualité du travail revient à un travail de qualité médiocre. Ainsi le calcul doit être effectué à l'année, en fonction d'une appréciation du travail effectué. Ce tribut n'est valorisé qu'apres 1an de travail, et permet de fluctuer en fonction de divers paramêtres. 
-Bien entendu, si la somme des tributs dépasse l'équivalent de tous les tributs fixés au maximum, un impôt particulier est ponctionné.
+
 
 ## Le facteur K
-Le facteur K est fixé globalement en fonction de la conjoncture économique et d'autre facteurs. Il permet de donner la base de rémunération (au pourcentage) de chaque tribut.
+Le facteur K est fixé globalement en fonction de la conjoncture économique et d'autre facteurs. Il permet de donner la base de rémunération (au pourcentage) de chaque tribut. Bien entendu, si la somme des tributs dépasse l'équivalent de tous les tributs fixés au maximum, un impôt particulier est ponctionné.
