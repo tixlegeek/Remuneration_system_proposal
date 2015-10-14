@@ -1,6 +1,8 @@
 # Remuneration_system_proposal
 Remuneration system proposal / Calcul de rémunération par Somme de tributs 
 
+
+
 ```
 @release	13/10/2015
 @version	0.1
@@ -9,13 +11,13 @@ Remuneration system proposal / Calcul de rémunération par Somme de tributs
 
 ```
 
+
+
 La rémunération par somme de tribut est un système de calcul d'une rémunération en fonction d'une somme de tributs %, multiplié par un facteur K.
 
 Ceci est une ébauche. Je vous encourage à me dire ce que vous en pensez, et à développer l'idée. Le but est d'explorer d'autres voies au système de rémunération courant.
 ## Principe
 Chaque tribut représente un pourcentage de charge d'une personne, dans une catégorie standard. Par exemple:
-
-
 
     * Tribut physique (p)
     * Tribut psychique (m)
@@ -24,21 +26,15 @@ Chaque tribut représente un pourcentage de charge d'une personne, dans une cat�
     * Polyvalence (P)
     * Qualité (q)
 
-
-
 Le calcul se présentera donc comme ceci:
 ```R = K( p+m+t+s+P+q )```
 Cette méthode de calcul, en plus de son extrême simplicité présente bon nombre propriétés intéressante :
-
-
 
     * Définition d'une rémunération maximale fixe
     * Prise en compte des travaux « non contractuels » (maternité/paternité, projets culturels, recherches...
     * Régulation des abus par arbitrage claire, et limitation des dérives.
     * Valorisation continuelle de toute activité ayant une importance pour la société (études, éducation, direction, travaux, entre-aide...)
     * Entre-évaluation des collaborateurs.
-
-
 
 La vocation de ce système est de valoriser au mieux le travail en fonction de critères précis.
 La rémunération peut venir d'un employeur, de l'état, ou d'une organisation.
