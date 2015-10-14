@@ -19,22 +19,22 @@ Ceci est une ébauche. Je vous encourage à me dire ce que vous en pensez, et à
 ## Principe
 Chaque tribut représente un pourcentage de charge d'une personne, dans une catégorie standard. Par exemple:
 
-    * Tribut physique (p)
-    * Tribut psychique (m)
-    * Temps passé à la tache (sur une journée) (t)
-    * Spécialité (s)
-    * Polyvalence (P)
-    * Qualité (q)
+* Tribut physique (p)
+* Tribut psychique (m)
+* Temps passé à la tache (sur une journée) (t)
+* Spécialité (s)
+* Polyvalence (P)
+* Qualité (q)
 
 Le calcul se présentera donc comme ceci:
 ```R = K( p+m+t+s+P+q )```
 Cette méthode de calcul, en plus de son extrême simplicité présente bon nombre propriétés intéressante :
 
-    * Définition d'une rémunération maximale fixe
-    * Prise en compte des travaux « non contractuels » (maternité/paternité, projets culturels, recherches...
-    * Régulation des abus par arbitrage claire, et limitation des dérives.
-    * Valorisation continuelle de toute activité ayant une importance pour la société (études, éducation, direction, travaux, entre-aide...)
-    * Entre-évaluation des collaborateurs.
+* Définition d'une rémunération maximale fixe
+* Prise en compte des travaux « non contractuels » (maternité/paternité, projets culturels, recherches...
+* Régulation des abus par arbitrage claire, et limitation des dérives.
+* Valorisation continuelle de toute activité ayant une importance pour la société (études, éducation, direction, travaux, entre-aide...)
+* Entre-évaluation des collaborateurs.
 
 La vocation de ce système est de valoriser au mieux le travail en fonction de critères précis.
 La rémunération peut venir d'un employeur, de l'état, ou d'une organisation.
