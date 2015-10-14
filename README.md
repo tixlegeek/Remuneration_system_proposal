@@ -38,11 +38,11 @@ Cette méthode de calcul, en plus de son extrême simplicité présente bon nomb
 
 La vocation de ce système est de valoriser au mieux le travail en fonction de critères précis. La rémunération peut venir d'un employeur, de l'état, ou d'une organisation.
 
-L'ensemble des revenus (en cas de cumul) est normalisé. Ainsi, si une rémunération venait à dépasser l'équivalent de la somme de tous les tributs fixés au maximum, cette dernière devient déductible d'un impôt spécifique visant à limiter tout type d'abus, partant du principe qu'aucun corp de métier ne peut prétendre à un tel score dans le cadre d'un calcul de bonne foi.
+L'ensemble des revenus (en cas de cumul) est normalisé. Ainsi, si une rémunération venait à dépasser l'équivalent de la somme de tous les tributs fixés au maximum, cette dernière devient déductible d'un impôt spécifique visant à limiter tout type d'abus, partant du principe qu'aucun corps de métier ne peut prétendre à un tel score dans le cadre d'un calcul de bonne foi.
 
 ## Les tributs
 ### Le tribut physique.
-Le tribut physique doit être calculé de manière à représenter au mieux le coût physique d'un travail. On peu la définir en fonction de critères plus spécifiques, comme le poid de l'équipement, la solicitation musculaire, les risques encourrus. Un corp de métier peut tout à fait atteindre et dépasser les 100%, au jugé des deux parties.
+Le tribut physique doit être calculé de manière à représenter au mieux le coût physique d'un travail. On peu la définir en fonction de critères plus spécifiques, comme le poid de l'équipement, la solicitation musculaire, les risques encourrus. Un corps de métier peut tout à fait atteindre et dépasser les 100%, au jugé des deux parties.
 
 ### Tribut psychique.
 Le tribut psychique est un peu plus arbitraire, mais peut être standardisé en fonction de critères plus spécifiques, comme la production de contenu non matériel, la popularité soutenue par le travailleur. Ce tribut peut aussi etre fixé en fonction de paramètres globaux et standardisés, comme l'exposition à la violence, l'exposition personnelle...
@@ -62,7 +62,7 @@ La polyvalence représente l'arsenal intellectuel nécessaire à la réalisation
 ### Qualité
 
 La qualité du travail effectué. Ce parametre doit être soumis à une certaine inertie, car la fluctuation de la qualité du travail revient à un travail de qualité médiocre. Ainsi le calcul doit être effectué à l'année, en fonction d'une appréciation du travail effectué. Ce tribut n'est valorisé qu'apres 1an de travail, et permet de fluctuer en fonction de divers paramêtres. 
-Bien entendu, si la somme des tributs dépasse l'équivalent de tous les tributs fixés au maximum, un impot particulier est ponctionné.
+Bien entendu, si la somme des tributs dépasse l'équivalent de tous les tributs fixés au maximum, un impôt particulier est ponctionné.
 
 ## Le facteur K
 Le facteur K est fixé globalement en fonction de la conjoncture économique et d'autre facteurs. Il permet de donner la base de rémunération (au pourcentage) de chaque tribut.
