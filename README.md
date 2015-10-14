@@ -38,7 +38,7 @@ Cette méthode de calcul, en plus de son extrême simplicité présente bon nomb
 
 La vocation de ce système est de valoriser au mieux le travail en fonction de critères précis. La rémunération peut venir d'un employeur, de l'état, ou d'une organisation.
 
-L'ensemble des revenus (en cas de cumul) est normalisé. Ainsi, si une rémunération venait à dépasser l'équivalent de la somme de tous les tributs fixés au maximum, cette dernière devient déductible d'un impôt spécifique visant à limiter tout type d'abus, partant du principe qu'aucun corps de métier ne peut prétendre à un tel score dans le cadre d'un calcul de bonne foi.
+L'ensemble des revenus (en cas de cumul) est normalisé. Ainsi, si une rémunération totale normalisée venait à dépasser l'équivalent de la somme de tous les tributs fixés au maximum, cette dernière devient la cible d'un impôt spécifique visant à limiter tout type d'abus, partant du principe qu'aucun corps de métier ne peut prétendre à un tel score dans le cadre d'un calcul de bonne foi.
 
 ## Les tributs
 ### Le tribut physique.
